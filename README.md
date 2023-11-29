@@ -8,3 +8,6 @@
 - [Clean Arch Solution Template](https://github.com/kavaan/clean-architecture-solution-template)
 - [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code)
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+## Data Engineering
+- [Airflow | VS Code | Jupyter](https://github.com/alec-muller/codespace-jupyter)
