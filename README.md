@@ -3,6 +3,8 @@
 ## Python
 ### Maching Learning
 - [Long Short Term Memory](https://github.com/paulacampigotto/mini-curso_ML_SEI)
+- [Deep Learning | Deep School](https://github.com/sachinruk/deepschool.io)
+- [Sigmoidal IA](https://github.com/carlosfab/sigmoidal_ai)
 
 ## Good practices programming and snippets
 - [Clean Arch Solution Template](https://github.com/kavaan/clean-architecture-solution-template)
@@ -11,3 +13,8 @@
 
 ## Data Engineering
 - [Airflow | VS Code | Jupyter](https://github.com/alec-muller/codespace-jupyter)
+- [Data Quest](https://github.com/dataquestio/solutions)
+
+## Computer Science
+- [Microsoft Academic](https://github.com/microsoft/AcademicContent)
+
