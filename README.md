@@ -1,6 +1,11 @@
 ## Interestings repositories and projects on the GitHub
 
 ## Python
+
+### Tutorials
+- [Learn Python](https://github.com/trekhleb/learn-python)
+- [Algorithms](https://github.com/TheAlgorithms/Python)
+
 ### Maching Learning
 - [Long Short Term Memory](https://github.com/paulacampigotto/mini-curso_ML_SEI)
 - [Deep Learning | Deep School](https://github.com/sachinruk/deepschool.io)
@@ -15,6 +20,11 @@
 - [Airflow | VS Code | Jupyter](https://github.com/alec-muller/codespace-jupyter)
 - [Data Quest](https://github.com/dataquestio/solutions)
 
+## Data Science
+- [DS Cheat Sheet](https://github.com/georgearun/Data-Science--Cheat-Sheet)
+
 ## Computer Science
 - [Microsoft Academic](https://github.com/microsoft/AcademicContent)
 
+### WASM
+- [ImageMagick](https://github.com/dlemstra/magick-wasm)
